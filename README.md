@@ -1,4 +1,4 @@
-<h1>Your Tip</h1>
+<h1>Tip Calculator</h1>
 > Status: Finished ✔️
 
 ### It's a web site where you can calculate your tips and split with your friends.
